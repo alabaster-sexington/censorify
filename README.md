@@ -1,3 +1,8 @@
-This Node module is a new Node module that I created!
+=======
+censorify
+=========
 
-- Emmanuel
+My first repository on Github
+
+This is my first added description to this.
+
